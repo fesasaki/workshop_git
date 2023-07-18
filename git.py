@@ -13,9 +13,9 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-pedrinho = 'tigres tristes'
-caio = 'Três pratos de '
-sasaki = 'trigo para três '
+pedrinho = 'Somos responsáveis '
+caio = 'por conectar pessoas '
+sasaki = 'ao que elas buscam!'
 
 megazord = pedrinho + caio + sasaki
 
