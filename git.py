@@ -1,6 +1,6 @@
 # Dinâmica Git - Webby Internet
-# Regra 1 = Cada integrante deve declarar uma variável com seu nome, e 
-# Regra 2 = A vaviável declarada deve conter um valor que contribua para o resultado final
+# Regra 1 = Cada integrante deve declarar uma variável com seu nome
+# Regra 2 = A vaviável declarada deve conter um valor que contribua para o resultado esperado
 
 megazord = ''
 
