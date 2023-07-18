@@ -13,12 +13,11 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-
+pedrinho = 'tigres tristes'
 caio = 'Três pratos de '
 sasaki = 'trigo para três '
-pedrinho = 'tigres tristes'
 
-megazord = caio + sasaki + pedrinho
+megazord = pedrinho + caio + sasaki
 
 
 ## Resultado esperado: 
