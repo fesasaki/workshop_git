@@ -14,7 +14,13 @@ megazord = ''
 # git push =  
 
 pedro = "pessoas ao que elas buscam!"
+sasaki = 'Somos responsáveis por conectar'
+
+megazord = sasaki + pedro
 
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
 print(megazord)
+
+
+
