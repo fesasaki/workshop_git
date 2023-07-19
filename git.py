@@ -14,6 +14,9 @@ megazord = ''
 # git push =  
 
 c0ntrol = 51
+greg="pinga"
+
+igor='é'
 megazord = sasaki + pedro
 
 ## Resultado esperado: 
