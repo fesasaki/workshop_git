@@ -13,11 +13,13 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-
-megazord = sasaki + pedro
+valdir = 
+lucena = 
+Danton = Caio é o EGGMAN!
+megazord = valdir + lucena + danton
 
 ## Resultado esperado: 
-# Somos responsáveis por conectar pessoas ao que elas buscam!
+# Caio é o EGGMAN
 print(megazord)
 
 
