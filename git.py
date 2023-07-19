@@ -14,8 +14,8 @@ megazord = ''
 # git push =  
 
 
-renato = 'não tem'
-Vitor = "O Palmeiras"
+renato = 'não tem '
+Vitor = "O Palmeiras "
 rafael= 'mundial.'
 
 
