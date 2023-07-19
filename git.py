@@ -13,11 +13,11 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-c0ntrol = 51
-greg="pinga"
+c0ntrol = '51 '
+greg=" pinga!"
 
-igor='é'
-megazord = sasaki + pedro
+igor=' é '
+megazord = c0ntrol + igor + greg
 
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
