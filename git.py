@@ -13,8 +13,9 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
+lucena = kratos
 
-megazord = sasaki + pedro
+megazord = valdir + lucena + danton
 
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
