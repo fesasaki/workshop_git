@@ -14,11 +14,27 @@ c0ntrol = ''
 # git commit -m =  
 # git push =  
 
+
+
+
+
+
+
+
+
+
+
+
+
+lucena = 'kratos'
+
+valdir = 'O Lucena é'
+
 c0ntrol = João
 megazord = sasaki + pedro
 
 ## Resultado esperado: 
-# Somos responsáveis por conectar pessoas ao que elas buscam!
+# Caio é o EGGMAN
 print(megazord)
 print(c0ntrol)
 
