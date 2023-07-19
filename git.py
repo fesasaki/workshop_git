@@ -13,9 +13,9 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-valdir = 
-lucena = 
-Danton = Caio é o EGGMAN!
+
+valdir = 'O Lucena é'
+
 megazord = valdir + lucena + danton
 
 ## Resultado esperado: 
