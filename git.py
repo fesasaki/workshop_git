@@ -15,6 +15,7 @@ megazord = ''
 
 
 renato = 'não tem'
+Vitor = "O Palmeiras"
 rafael= 'mundial.'
 
 
