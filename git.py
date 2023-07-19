@@ -14,8 +14,10 @@ megazord = ''
 # git push =  
 
 
+renato = 'não tem'
 Vitor = "O Palmeiras"
 rafael= 'mundial.'
+
 
 megazord = sasaki + pedro
 
