@@ -13,8 +13,6 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
-pedro = "pessoas ao que elas buscam!"
-sasaki = 'Somos responsáveis por conectar'
 
 megazord = sasaki + pedro
 
