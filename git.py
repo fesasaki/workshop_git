@@ -3,7 +3,6 @@
 # Regra 2 = A vaviável declarada deve conter um valor que contribua para o resultado esperado
 
 megazord = ''
-c0ntrol = ''
 
 # git clone = Clonar um repositório
 # git checkout =
@@ -14,6 +13,12 @@ c0ntrol = ''
 # git commit -m =  
 # git push =  
 
+c0ntrol = '51 '
+greg=" pinga!"
+
+igor=' é '
+megazord = c0ntrol + igor + greg
+=======
 
 
 
@@ -38,11 +43,8 @@ valdir = 'O Lucena é'
 c0ntrol = João
 megazord = sasaki + pedro
 
-
 ## Resultado esperado: 
 # Caio é o EGGMAN
 print(megazord)
-print(c0ntrol)
-
 
 
