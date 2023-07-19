@@ -13,8 +13,10 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
+lucena = kratos
 
 valdir = 'O Lucena é'
+
 
 megazord = valdir + lucena + danton
 
