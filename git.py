@@ -19,7 +19,7 @@ Vitor = "O Palmeiras"
 rafael= 'mundial.'
 
 
-megazord = sasaki + pedro
+megazord = Vitor + renato + rafael
 
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
