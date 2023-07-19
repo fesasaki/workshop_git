@@ -19,6 +19,11 @@ c0ntrol = ''
 
 
 
+renato = 'não tem '
+Vitor = "O Palmeiras "
+rafael= 'mundial'
+
+
 
 
 
@@ -32,6 +37,7 @@ valdir = 'O Lucena é'
 
 c0ntrol = João
 megazord = sasaki + pedro
+
 
 ## Resultado esperado: 
 # Caio é o EGGMAN
