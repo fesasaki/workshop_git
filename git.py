@@ -12,8 +12,10 @@ megazord = ''
 # git add . = Adicionar os arquivos que serão commitados
 # git commit -m =  
 # git push =  
+
 greg="pinga"
 
+igor='é'
 megazord = sasaki + pedro
 
 ## Resultado esperado: 
