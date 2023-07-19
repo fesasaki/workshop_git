@@ -13,6 +13,7 @@ megazord = ''
 # git commit -m =  
 # git push =  
 
+c0ntrol = 51
 greg="pinga"
 
 igor='é'
@@ -21,6 +22,5 @@ megazord = sasaki + pedro
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
 print(megazord)
-
 
 
