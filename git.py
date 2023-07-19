@@ -20,6 +20,7 @@ megazord = sasaki + pedro
 ## Resultado esperado: 
 # Somos responsáveis por conectar pessoas ao que elas buscam!
 print(megazord)
+print(c0ntrol)
 
 
 
