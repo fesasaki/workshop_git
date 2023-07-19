@@ -18,9 +18,33 @@ greg=" pinga!"
 
 igor=' é '
 megazord = c0ntrol + igor + greg
+=======
+
+
+
+
+
+renato = 'não tem '
+Vitor = "O Palmeiras "
+rafael= 'mundial'
+
+
+
+
+
+
+
+
+
+lucena = 'kratos'
+
+valdir = 'O Lucena é'
+
+c0ntrol = João
+megazord = sasaki + pedro
 
 ## Resultado esperado: 
-# Somos responsáveis por conectar pessoas ao que elas buscam!
+# Caio é o EGGMAN
 print(megazord)
 
 
